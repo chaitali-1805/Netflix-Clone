@@ -1,0 +1,9 @@
+npm install -g firebase-tools
+
+60cc223764e07c7201707f31276808ab
+
+https://api.themoviedb.org/3/movie/550?api_key=60cc223764e07c7201707f31276808ab
+
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2MGNjMjIzNzY0ZTA3YzcyMDE3MDdmMzEyNzY4MDhhYiIsInN1YiI6IjYwOTQxMTNlYTA2ZWZlMDA0MjE3NTk0MyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.4uU9LcYRbRNDlEpUt0zeFEeTDNI7oUMxTCBB2YK4j00
+
