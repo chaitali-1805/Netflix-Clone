@@ -3,7 +3,7 @@ import './App.css';
 import Row from './Row';
 import requests from './requests';
 import Banner from './Banner';
-import Nav from '.Nav';
+import Nav from './Nav';
 
 function App() {
   return (
@@ -14,8 +14,8 @@ function App() {
       <Banner />
       <Row 
       title="NETFLIX ORIGINALS" 
-      fetchUrl= {requests.
-      fetchNetflixOriginals}
+      fetchUrl= {requests
+        .fetchNetflixOriginals}
       isLargeRow
        />
       <Row title="Trending Now" fetchUrl={requests.fetchTrending}/>
